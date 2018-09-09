@@ -1,3 +1,4 @@
+//创建一个变量保存库的位置
 ROOT_PATH=$(shell pwd)
 CLIENT=$(ROOT_PATH)/client
 SERVER=$(ROOT_PATH)/server
